@@ -1,4 +1,6 @@
-# Opening-and-Closing
+## EX NO:11
+## DATE:3.6.22
+# <p align="center">Opening-and-Closing
 
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
@@ -26,6 +28,8 @@ Use Closing Operation.
 ## Program:
 
 ``` Python
+Developed by:Lishali.R
+Register No:212220230028
 # Import the necessary packages
 import cv2
 import numpy as np
